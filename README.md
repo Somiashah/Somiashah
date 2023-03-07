@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Somiashah
-- 👀 I’m interested in Web designing
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a Web designer
+- 🌱 I love programming.
+- 💞️ Angular has my heart
 - 📫 How to reach me  somiashah@gmail.com
 
 <!---
